@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviesLib</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="test_role_role_name">as Shrek</string>
+    <string name="test_role_full_name">Marek Iwaniuk</string>
+    <string name="test_movie_main_category">COMEDY</string>
+    <string name="test_movie_name_main">Shrek 2</string>
+    <string name="test_movie_name">\'Szybcy i wściekli 8\'</string>
+    <string name="test_movie_category">ACTION</string>
+    <string name="test_movie_description_text">some text</string>
+    <string name="preview_activity_name">Preview</string>
+</resources>
